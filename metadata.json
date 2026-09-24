@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "Weather application displaying current temperature and five-day forecasts for any city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

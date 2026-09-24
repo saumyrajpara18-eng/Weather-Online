@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_city_hint">Search any city (e.g. London, Tokyo)…</string>
+    <string name="search_label">Search city</string>
+    <string name="five_day_forecast">5-Day Forecast</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="feels_like">Feels like</string>
+    <string name="precip_chance">Rain chance</string>
+    <string name="retry">Retry</string>
+    <string name="popular_cities">Quick Select</string>
+    <string name="no_cities_found">No cities found. Try another search.</string>
+    <string name="error_loading_weather">Unable to load weather data. Please check connection.</string>
+</resources>
